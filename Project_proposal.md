@@ -5,11 +5,11 @@
 # Introduction
 
 # Main Part
-\begin{itemize}
+$\begin{itemize}
   \item Literature Review
   \item Anticipated NLP Methods
   \item Expected Results
-\end{itemize}
+\end{itemize}$
 
 # Conclusion (optional)
 
